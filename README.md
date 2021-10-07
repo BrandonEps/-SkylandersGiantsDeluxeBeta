@@ -5,7 +5,7 @@ Created by BrandonEps
 This Deluxe edition works through Dolphin's load custom textures feature.
 
 ### How to load the texture pack - Windows
-1. Download the latest release
+1. Download the latest release (ignore/docs, this is for the web page)
 2. Unzip
 3. Move the SKYE52 folder into Dolphin Emulator/Load/Textures/
 
@@ -14,7 +14,7 @@ This Deluxe edition works through Dolphin's load custom textures feature.
 Optional: Prefetch Custom Textures - Caches textures in RAM when game is loaded. May reduce stuttering.
 
 ### How to load the texture pack - Arch/Manjaro
-1. Download the latest release
+1. Download the latest release (ignore/docs, this is for the web page)
 2. Unzip
 3. Move the SKYE52 folder into dolphin-emu/Load/Textures/
 
