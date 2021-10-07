@@ -1,4 +1,4 @@
-# Skylanders Giants: Deluxe Beta
+# Skylanders Giants Deluxe [BETA]
 Created by BrandonEps
 
 ## Retexturing Skylanders via Dolphin
@@ -23,7 +23,7 @@ Optional: Prefetch Custom Textures - Caches textures in RAM when game is loaded.
 Optional: Prefetch Custom Textures - Caches textures in RAM when game is loaded. May reduce stuttering.
 
 #### Website
--  https://sirsleon.github.io/Skylanders-Giants-Deluxe-Beta/
+-  https://sirsleon.github.io/Skylanders-Giants-Deluxe/
 
 #### Credits
 - THE CHARACTERS BELONG TO THEIR RIGHTFUL OWNERS, I DO NOT CLAIM OWNERSHIP OF ANY OF THESE CHARACTERS. THESE ARE CONSIDERED FAN ART AND I AM NOT RESELLING OR TAKING OWNERSHIP OF THESE WORKS.
