@@ -24,7 +24,7 @@ Optional: Prefetch Custom Textures - Caches textures in RAM when game is loaded.
 
 #### Website
 -  https://sirsleon.github.io/Skylanders-Giants-Deluxe-Beta/
--  
+
 #### Credits
 - THE CHARACTERS BELONG TO THEIR RIGHTFUL OWNERS, I DO NOT CLAIM OWNERSHIP OF ANY OF THESE CHARACTERS. THESE ARE CONSIDERED FAN ART AND I AM NOT RESELLING OR TAKING OWNERSHIP OF THESE WORKS.
 -  @BrandonEPs
